@@ -10,3 +10,8 @@ Pipeline Features to be added
  - Deatiled conda installation configuration file for users who prefer working within a conda environment
 
  - Complete update of the pipeline to DSL2
+
+
+To run the pipeline;
+
+nextflow run main.nf
